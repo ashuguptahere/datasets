@@ -1,0 +1,5 @@
+COMPANY_sheet1,COMPANY_sheet2,COMPANYresult,CORPID_sheet1,CORPID_sheet2_x,CORPID_sheet2_y,CORPIDresult,CORP_RESULT,FIRST_sheet1,FIRST_sheet2,FIRSTresult,LAST_sheet1,LAST_sheet2,LASTresult,PROGRAMS_sheet1,PROGRAMS_sheet2,PROGRAMSresult,_merge
+Accenture,Accenture,True,A531918,A531918,A531918,True,MATCH,Sourabh,Sourabh,True,Mittal,Mittal,True,IT,DB,False,both
+Vision,Vision,True,A34345,A34345,A34345,True,MATCH,Lokesh,Lokesh,True,Kumar,Kumar,True,IT,DB,False,both
+,,,,AExcel1,,,ROW DELETED,,,,,,,,,,left_only
+,,,,AExcel2,,,ROW ADDED,,,,,,,,,,right_only
